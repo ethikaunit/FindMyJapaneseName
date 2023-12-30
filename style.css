@@ -11,8 +11,10 @@ body {
 }
 
 .container {
-    max-width: 420px;
-    margin: 50px auto;
+    
+    max-width: 375px; /* Adjust as needed based on your design */
+    margin: 20px auto;
+    padding: 20px;
     background-color: rgba(255, 255, 255, 0.8); /* Transparent white background */
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); /* Slight shadow for depth */
