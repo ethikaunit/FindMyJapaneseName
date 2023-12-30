@@ -3,4 +3,4 @@
 In this New year Unlock your true Japanese name
 
 ## click here
-[Installation]("example.com")
+[Unlock you true Japanese name](https://ethikaunit.github.io/FindMyJapaneseName/)
