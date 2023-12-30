@@ -4,6 +4,7 @@ body {
     font-size:2.5rem;
 }
 .popup {
+    scale:5px;
     display: none;
     position: fixed;
     top: 0;
