@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     max-width: 500px;
+    height:1080px;
     overflow: hidden; /* To prevent the snowfall from affecting scroll */
     background-image: url('image2.jpeg'); /* Replace with your image path */
     background-size: cover;
