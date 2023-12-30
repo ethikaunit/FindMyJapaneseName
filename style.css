@@ -7,7 +7,7 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    font-size:.5rem;
+    font-size:1.5rem;
 }
 body {
     background-size: 100% 100%;
@@ -23,11 +23,12 @@ body {
     backdrop-filter: blur(10px); /*
      Glass blur effect */
      color:111;
+    font-size:1.5rem;
 }
 
 .intro {
     text-align: center;
-    font-size: 2.5rem;
+    font-size: 3.5rem;
     color: #111; /* Dark text color */
 }
 
@@ -38,13 +39,13 @@ body {
 
 #input {
     padding: 10px;
-    font-size: 18px;
+    font-size: 2rem;
 }
 
 #btn {
     margin-top: 10px;
     padding: 10px 20px;
-    font-size: 18px;
+    font-size: 2rem;
     background-color: #4caf50;
     color: #fff;
     border: none;
